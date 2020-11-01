@@ -1,0 +1,12 @@
+001,cpsc462,A
+001,cpsc321,A
+001,cpsc331,A
+002,cpsc462,B
+002,cpsc321,B
+002,cpsc331,B
+003,cpsc462,C
+003,cpsc321,C
+003,cpsc331,C
+004,cpsc462,D
+004,cpsc321,D
+004,cpsc331,F
